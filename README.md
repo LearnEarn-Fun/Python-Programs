@@ -3,9 +3,9 @@
 ![Python-Programs](https://socialify.git.ci/LearnEarn-Fun/Python-Programs/image?description=1&descriptionEditable=Free%20Python%20Programs&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
 <br><br>
 Free Python Programs <br><br>
- ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/100-Days-of-Python?style=for-the-badge)
- ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/100-Days-of-Python?style=for-the-badge)
- [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/100-Days-of-Python?style=for-the-badge)](https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/watchers)
+ ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/Python-Programs?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/Python-Programs?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/Python-Programs?style=for-the-badge)](https://github.com/LearnEarn-Fun/Python-Programs/watchers)
  <br><br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -15,7 +15,6 @@ Free Python Programs <br><br>
 
 ---
 
-https://www.youtube.com/playlist?list=PLXMBJ3hDkK5UZsTPpvoCGStp7U-NSRolH - You Could Find the Free Official 100 Days of Python Course!
 
 ## Created by
 
@@ -26,4 +25,4 @@ https://www.youtube.com/playlist?list=PLXMBJ3hDkK5UZsTPpvoCGStp7U-NSRolH - You C
 
 ---
 
-### © 2021 Learn Earn & Fun Inc.
+### © 2022 Learn Earn & Fun Inc.
